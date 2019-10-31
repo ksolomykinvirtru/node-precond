@@ -1,5 +1,5 @@
 {
-    "name": "precond",
+    "name": "node-precond",
     "description": "Precondition checking utilities.",
     "version": "0.3.0",
     "author": "Mathieu Turcotte <turcotte.mat@gmail.com>",
